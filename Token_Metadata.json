@@ -4,9 +4,11 @@
   "description": "NFT for Algotrading",
   "image": "https://raw.githubusercontent.com/StantonR-ZA/TheAlgi/main/logo.png"
   "seller_fee_basis_points": 500,
-   "properties": {
-        "creators": [{"address": "EVjziqcZXG2eUj9xDHhczweDtrPWXcDMiNVeWTgavCCn", "share": 100}],
-        "files": [{"uri": "https://raw.githubusercontent.com/StantonR-ZA/TheAlgi/main/logo.png", "type": "image/png"}]
-    },
+   "creators": [
+      {
+        "address": "EVjziqcZXG2eUj9xDHhczweDtrPWXcDMiNVeWTgavCCn",
+        "share": 100
+      }
+    ]
 }
 
