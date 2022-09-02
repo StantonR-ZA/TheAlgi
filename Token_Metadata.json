@@ -3,12 +3,6 @@
   "symbol": "ALGI",
   "description": "NFT for Algotrading",
   "image": "https://raw.githubusercontent.com/StantonR-ZA/TheAlgi/main/logo.png"
-  "seller_fee_basis_points": 500,
-   "creators": [
-      {
-        "address": "EVjziqcZXG2eUj9xDHhczweDtrPWXcDMiNVeWTgavCCn",
-        "share": 100
-      }
-    ]
+  "seller_fee_basis_points": 500,  
 }
 
